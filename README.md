@@ -101,5 +101,3 @@ It runs inside its own container and communicates with the frontend.
 
 ---
 
-
-Do you want me to go ahead and create it?
